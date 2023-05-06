@@ -6,7 +6,7 @@ A Simple Plugin that shows a Welcome Message to the joining User.
 # Installation
 
 1. Download `SB_WelcomeMessage.dll` & `FormatWith.dll` from the releases.
-2. Place `SB_WelcomeMessage.dll` in `PluginAPI\plugins\global` or `SCP Secret Laboratory/PluginAPI/plugins/YOURPORT`.
+2. Place `SB_WelcomeMessage.dll` in `PluginAPI\plugins\global` or `PluginAPI/plugins/YOURPORT`.
 3. Place `FormatWith.dll` in `SCPSL_Data\Managed`.
 
 # Configuration
